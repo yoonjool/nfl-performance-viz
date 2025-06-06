@@ -47,5 +47,9 @@ Three main types of visualizations were created to explore player metrics:
 ## Output
 
 You can view the interactive NFL visualization dashboard here:  
-👉 [NFL Performance Output](https://ylee219.shinyapps.io/NFL_Analysis/)
+
+
+👉 [NFL Dashboard Output](https://ylee219.shinyapps.io/NFL_Analysis/)
+
+
 ❤️ Feel free to explore the dashboard by selecting different teams, positions, and players! ❤️
