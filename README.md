@@ -2,6 +2,11 @@
 
 This project visualizes player performance in the NFL using bar graphs, spider charts, and scatter plots. By analyzing key performance and physical metrics, the visualizations offer insights into player strengths, position-specific trends, and the relationship between attributes and performance.
 
+## My Contributions
+
+- Led the overall project, including data preprocessing, visualization, and dashboard design
+- Created and published an interactive HTML dashboard in R with visualizations including bar charts, spider charts, and scatter plots
+
 ## Dataset
 
 Two main data sources were used:
